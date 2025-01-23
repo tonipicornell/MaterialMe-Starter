@@ -16,10 +16,6 @@
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_cycling.jpg"
     },
     {
-        "merged": "com.example.android.materialme.app-debug-32:/drawable_ic_reset.xml.flat",
-        "source": "com.example.android.materialme.app-main-34:/drawable/ic_reset.xml"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_img_golf.jpg.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_golf.jpg"
     },
@@ -56,12 +52,12 @@
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_running.jpg"
     },
     {
-        "merged": "com.example.android.materialme.app-debug-32:/layout_activity_main.xml.flat",
-        "source": "com.example.android.materialme.app-main-34:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_img_badminton.jpg.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_badminton.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_ic_reset.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\ic_reset.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\mipmap-mdpi_ic_launcher.png.flat",
@@ -82,5 +78,9 @@
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_img_basketball.jpg.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_basketball.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-debug-32:/layout_list_item.xml.flat",
+        "source": "com.example.android.materialme.app-main-34:/layout/list_item.xml"
     }
 ]
